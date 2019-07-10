@@ -6,7 +6,7 @@ export class Form extends Component {
 		super();
 		this.state = {
 			title: '',
-			desccription: '',
+			description: '',
 			id: Date.now()
 		};
 	}
